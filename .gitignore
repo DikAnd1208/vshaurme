@@ -1,2 +1,7 @@
 cat .gitignore
-.idea
+*.idea
+misc-*.xml
+modules-*.xml
+vcs-*.xml
+vshaurme-*.iml
+workspace-*.xml
